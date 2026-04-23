@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @abderrahim berghaz.
-- 👀 I’m interested in web developpement, machine learning and deep learning.
-- 🌱 I’m currently IT engineering student.
-- 💞️ I’m looking to collaborate on web developpement and creating machine learning models
+Am a Data Engineer with solid experience in designing and productionizing data pipelines,
+large-scale distributed processing, and orchestrating data workflows in banking and
+corporate environments. Strong collaborator with business teams and data analysts,
+delivering reliable, high-performance, and production-ready data solutions.
+
+I also worked on personal projects in web development and AI.
+
 - 📫 you can contact me on my Linkedin profil:www.linkedin.com/in/abderrahim-berghaz
 
 <!---
